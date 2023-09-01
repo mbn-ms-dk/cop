@@ -1,0 +1,5 @@
+C:\Dev\Projects\cop\FollowStandards\obj\Debug\net7.0\FollowStandards.csproj.AssemblyReference.cache
+C:\Dev\Projects\cop\FollowStandards\obj\Debug\net7.0\FollowStandards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projects\cop\FollowStandards\obj\Debug\net7.0\FollowStandards.AssemblyInfoInputs.cache
+C:\Dev\Projects\cop\FollowStandards\obj\Debug\net7.0\FollowStandards.AssemblyInfo.cs
+C:\Dev\Projects\cop\FollowStandards\obj\Debug\net7.0\FollowStandards.csproj.CoreCompileInputs.cache
